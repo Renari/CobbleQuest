@@ -1,0 +1,15 @@
+.mixin.out
+command_history.txt
+crash-reports
+downloads
+emi.json
+logs
+moddata
+mods
+options.txt
+saves
+screenshots
+showdown
+texturepacks
+usercache.json
+usernamecache.json
