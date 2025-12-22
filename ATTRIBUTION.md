@@ -1,0 +1,1 @@
+[icon.png](https://commons.wikimedia.org/wiki/File:Pok%C3%A9_Ball_icon.svg) used under the [Creative Commons Attribution-Share Alike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) license
