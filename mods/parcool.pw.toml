@@ -1,0 +1,13 @@
+name = "ParCool!"
+filename = "ParCool-1.21.1-3.4.2.0-NF.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Fsvx2bdR/versions/tTFg61S4/ParCool-1.21.1-3.4.2.0-NF.jar"
+hash-format = "sha512"
+hash = "c8f9b90ba5a179f6c8ab0be62b4efdf075c4ff7086801b53189927ba4cc4a347053eac16153824d8375319b1afb418de5ec321a3368cc444867ba2f7ce39cc01"
+
+[update]
+[update.modrinth]
+mod-id = "Fsvx2bdR"
+version = "tTFg61S4"

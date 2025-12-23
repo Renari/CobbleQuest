@@ -1,0 +1,13 @@
+name = "CobbleQuest"
+author = "Arimil"
+version = "0.0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "08d8af721de36358592db545e5abd8ca545831f01f88d0b069e833aac256b93f"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.216"

@@ -5,7 +5,7 @@ downloads
 emi.json
 logs
 moddata
-mods
+mods/*.jar
 options.txt
 saves
 screenshots
