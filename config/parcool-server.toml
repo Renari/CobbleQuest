@@ -27,7 +27,7 @@
 		permit_Tap = true
 		permit_Vault = true
 		permit_VerticalWallRun = true
-		permit_WallJump = true
+		permit_WallJump = false
 		permit_WallSlide = true
 		permit_StartSwimByCrawl = true
 
