@@ -611,6 +611,11 @@ hash = "29673e522060c530979217c750adf7723ed009eda5fe013cd6bc7a52eacda700"
 metafile = true
 
 [[files]]
+file = "mods/not-enough-animations.pw.toml"
+hash = "b4b723e8c39b3737bd276678989e3253a576438155bcef89a4b62ee6947dd301"
+metafile = true
+
+[[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "46831c04077a06df823bcd0f254833a90a9a9ccc78f5069f4b4c27fa301ac0cf"
 metafile = true
