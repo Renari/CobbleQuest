@@ -706,6 +706,11 @@ hash = "307a39080394cbe930be57e67fb8dae37601e8f0842da10da10977d261dac07d"
 metafile = true
 
 [[files]]
+file = "mods/spark.pw.toml"
+hash = "593fa7b30ab016aa45be07bd6bef3a9f160ed0f24689850d60bf84995d69b843"
+metafile = true
+
+[[files]]
 file = "mods/structures-tweaker.pw.toml"
 hash = "e9c324887f3939937aeded1d7038e5221d389ce2cb22dd1b962c19cc09813f40"
 metafile = true
