@@ -1,0 +1,17 @@
+#!/bin/sh
+set -e
+
+echo "[pre-commit] Running packwiz refresh…"
+
+# Ensure packwiz exists
+if ! command -v packwiz >/dev/null 2>&1; then
+    echo "[pre-commit] ERROR: packwiz not found in PATH"
+    exit 1
+fi
+
+packwiz refresh
+
+echo "[pre-commit] Adding pack.toml and index.toml…"
+git add pack.toml index.toml
+
+echo "[pre-commit] Done."

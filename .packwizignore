@@ -1,0 +1,3 @@
+.githooks/*
+README.md
+scripts/setup-hooks.sh
