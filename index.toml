@@ -26,7 +26,7 @@ hash = "065f28b12d982bea13b3adfe4248f9bcd8d84804f5d48339b498478763c3fa2c"
 
 [[files]]
 file = "config/global_packs.toml"
-hash = "7c622462e15b233663d344eb9e53ad33ad066417e8345751b5801032a1d02e19"
+hash = "7e2d8c2c7ff16d7158d24d8bf4c19cabd564eb79e2190f0d3dd3213113cd8002"
 
 [[files]]
 file = "config/jade/hide-blocks.json"
