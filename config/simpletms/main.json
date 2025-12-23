@@ -19,7 +19,7 @@
   "tmBaseDurability": 32,
   "tmRepairable": true,
   "trStackSize": 16,
-  "dropOutsideOfBattle": true,
+  "dropOutsideOfBattle": false,
   "dropInBattle": true,
   "dropRateInBattle": 0.1,
   "dropRateTMFractionInBattle": 0.1,

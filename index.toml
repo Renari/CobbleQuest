@@ -106,7 +106,7 @@ hash = "9710f3791e4f986648a05bba9dc8db24348912bedfc3e9a7b40adf03c38999d8"
 
 [[files]]
 file = "config/simpletms/main.json"
-hash = "24f8689336c04db23312f4019adfdb3587b7e3d4403b695adbc6653789db9250"
+hash = "8ce2d27aedfba52e2e825fdf0603c6cde28fdccb0038e06d5458b3ec23196a2a"
 
 [[files]]
 file = "config/simpletms/moves/default_tm_moves.json"
