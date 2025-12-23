@@ -1,9 +1,15 @@
-name = "More Radical Textures"
+name = "More-Radical-Textures"
 filename = "MoreRadicalTextures1.8.zip"
 side = "client"
 
 [download]
 url = "https://github.com/Fyre520/More-Radical-Textures/releases/download/1.8/MoreRadicalTextures1.8.zip"
-
 hash-format = "sha256"
 hash = "5e8d2e2c80f0ce74a21a7c765dbfc2e659eb92fd0863de485c927abefbcd8896"
+
+[update]
+[update.github]
+branch = "main"
+regex = ".*\\.zip"
+slug = "Fyre520/More-Radical-Textures"
+tag = "1.8"
