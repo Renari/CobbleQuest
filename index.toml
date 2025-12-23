@@ -571,6 +571,11 @@ hash = "d3c9b48d7caa2ed964e5d1a4dab1da5655c63f0a7e4a59231c4369be7ffc30e1"
 metafile = true
 
 [[files]]
+file = "mods/entityculling.pw.toml"
+hash = "77d59ac7bb40c00032d68d45d777e8c1c0dc22596afe0c84572104a67dabb1d5"
+metafile = true
+
+[[files]]
 file = "mods/globalpacks.pw.toml"
 hash = "196e0f508a13926ad342628f60f17cae5581b48582e3a9de3350c9e78888e1d3"
 metafile = true
