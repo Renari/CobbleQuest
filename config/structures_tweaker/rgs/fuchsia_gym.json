@@ -3,13 +3,13 @@
   "config": {
     "canBreakBlocks": false,
     "canInteract": true,
-    "canPlaceBlocks": false,
+    "canPlaceBlocks": true,
     "allowPlayerPVP": true,
     "allowCreatureSpawning": true,
     "allowFireSpread": false,
     "allowExplosions": false,
     "allowItemPickup": true,
-    "onlyProtectOriginalBlocks": false,
+    "onlyProtectOriginalBlocks": true,
     "allowElytraFlight": true,
     "allowEnderPearls": true,
     "allowRiptide": true
