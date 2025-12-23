@@ -581,6 +581,11 @@ hash = "626d8158ec0e84758abfb66ad1ae4e53f353f995bda5ae52b2b0b662f3420248"
 metafile = true
 
 [[files]]
+file = "mods/controlling.pw.toml"
+hash = "5c66d04e260d03e245daaca2066f30d792e5467dc5abb0e5a35b298bc150d212"
+metafile = true
+
+[[files]]
 file = "mods/default-options.pw.toml"
 hash = "bd005d9f92131c7c4a88a081aa5368c482eec2cb410d14ab245a2f081e9e1ffb"
 metafile = true
@@ -663,6 +668,11 @@ metafile = true
 [[files]]
 file = "mods/rctmod.pw.toml"
 hash = "baf0cd242ee5caf961e8281ca9ef4e0a60e0a2acdcdcfd00d8f5766ae8f2d54a"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "ce9ddada6ffd55a512149cc474c6a453281a997a5fdf1b7b4a2cc73f875e704a"
 metafile = true
 
 [[files]]
