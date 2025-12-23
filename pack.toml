@@ -1,12 +1,12 @@
 name = "CobbleQuest"
 author = "Arimil"
-version = "0.0.3"
+version = "0.0.4"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "b4bb2f31cc0ee4b21be2101f859a0ce0c2c642aa833b339db8a10bcad5420aa7"
+hash = "d561fffc1e80213257532312bad7e7a8c11080da8fc6b38a39a8109adb85cbfd"
 
 [versions]
 minecraft = "1.21.1"

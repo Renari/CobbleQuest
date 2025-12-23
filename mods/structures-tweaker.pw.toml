@@ -1,0 +1,13 @@
+name = "Structures Tweaker"
+filename = "structures_tweaker-1.21.1-NeoForge-1.2.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/KsN9btiw/versions/760xCCGs/structures_tweaker-1.21.1-NeoForge-1.2.1.jar"
+hash-format = "sha512"
+hash = "b880616a7e282fb6ca10144197644fd7b366db45357515b40675a5c019a89680069e0f834dfa23af150a38f6f092fc057058fa42c024153d2416b86dbff2cd2d"
+
+[update]
+[update.modrinth]
+mod-id = "KsN9btiw"
+version = "760xCCGs"
