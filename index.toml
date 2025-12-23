@@ -5,6 +5,10 @@ file = "ATTRIBUTION.md"
 hash = "13ff07f30a28f2039d03d24e02f9580548ca54ae441d28d09e0e4f14ed004e93"
 
 [[files]]
+file = "config/NoChatReports/NCR-Encryption.json"
+hash = "a65ff569162484bb5a36f4ba88048af17529961dee237f294e10e927f958a1d8"
+
+[[files]]
 file = "config/accessories.json5"
 hash = "36bc911fdd66e33118d4f5b8e86d9cf75c0075ec05eb69ef01d6f9a53d695822"
 
