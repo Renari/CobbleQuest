@@ -9,10 +9,6 @@ file = "config/accessories.json5"
 hash = "36bc911fdd66e33118d4f5b8e86d9cf75c0075ec05eb69ef01d6f9a53d695822"
 
 [[files]]
-file = "config/cobblecapsule-server.toml"
-hash = "70e404aa133a883dc87327d074af08db4eb3f7b04d2f8ed07cc233ca3f657148"
-
-[[files]]
 file = "config/cobblemon/main.json"
 hash = "13b40dbd6b36d02b5e0a0897c69335741224456c5c4dae2339418da413bb2785"
 
