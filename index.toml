@@ -601,6 +601,11 @@ hash = "bd005d9f92131c7c4a88a081aa5368c482eec2cb410d14ab245a2f081e9e1ffb"
 metafile = true
 
 [[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "5a7c1b20dfbc7f9d4816afe5f0a842d8cb718f6c08e7f78aef47bababe8c078a"
+metafile = true
+
+[[files]]
 file = "mods/emi.pw.toml"
 hash = "d3c9b48d7caa2ed964e5d1a4dab1da5655c63f0a7e4a59231c4369be7ffc30e1"
 metafile = true
