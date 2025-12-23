@@ -616,6 +616,11 @@ hash = "29673e522060c530979217c750adf7723ed009eda5fe013cd6bc7a52eacda700"
 metafile = true
 
 [[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "eb8a4de84d8cfd862857b6b9483e6987b8f2ec06cb46c315c7f4765095ff5779"
+metafile = true
+
+[[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "b4b723e8c39b3737bd276678989e3253a576438155bcef89a4b62ee6947dd301"
 metafile = true
