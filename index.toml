@@ -646,6 +646,11 @@ hash = "1a9ec5beaba1be3151b8710db2bfab90c2063a4dafaf2720336852245a145cc4"
 metafile = true
 
 [[files]]
+file = "mods/lootr.pw.toml"
+hash = "44e2f62e52b633d52180c225c40d058aca60226e242c56b0355217b84423c8b0"
+metafile = true
+
+[[files]]
 file = "mods/more-radical-trainers.pw.toml"
 hash = "29673e522060c530979217c750adf7723ed009eda5fe013cd6bc7a52eacda700"
 metafile = true
