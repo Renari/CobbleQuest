@@ -1,13 +1,13 @@
 name = "Global Packs"
-filename = "globalpacks-forge-1.20.1-19.3.7.jar"
+filename = "globalpacks-neoforge-1.21.1-21.0.6.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/NRLPy2mk/versions/ULFP5OQn/globalpacks-forge-1.20.1-19.3.7.jar"
+url = "https://cdn.modrinth.com/data/NRLPy2mk/versions/FPcUOp35/globalpacks-neoforge-1.21.1-21.0.6.jar"
 hash-format = "sha512"
-hash = "c011fa5e3e7c6f5431fe17980b2d9f5ab4e080351ff1a23e49a0419c6dbf4684c5f7461dd22b8bdb0ff1f674fa1f3d43d2ffb46dc146d3256d780d0d88b9c5af"
+hash = "5590a9066d84265a53e756fdb5b8872c383ffe069745756f1ff0fe54a315cefb5cc90ee3d0233a95f1dc2a7d68396b1102b9002d8b1aaf3ec476b52c7286c6b8"
 
 [update]
 [update.modrinth]
 mod-id = "NRLPy2mk"
-version = "ULFP5OQn"
+version = "FPcUOp35"
