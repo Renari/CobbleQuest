@@ -1,6 +1,142 @@
 hash-format = "sha256"
 
 [[files]]
+file = "ATTRIBUTION.md"
+hash = "13ff07f30a28f2039d03d24e02f9580548ca54ae441d28d09e0e4f14ed004e93"
+
+[[files]]
+file = "config/accessories.json5"
+hash = "36bc911fdd66e33118d4f5b8e86d9cf75c0075ec05eb69ef01d6f9a53d695822"
+
+[[files]]
+file = "config/cobblecapsule-server.toml"
+hash = "70e404aa133a883dc87327d074af08db4eb3f7b04d2f8ed07cc233ca3f657148"
+
+[[files]]
+file = "config/cobblemon/main.json"
+hash = "13b40dbd6b36d02b5e0a0897c69335741224456c5c4dae2339418da413bb2785"
+
+[[files]]
+file = "config/cobblemonpokemonbadges-common.toml"
+hash = "d640c77b9cbb56c6ca4bd3bf4194ad5fa6dd3572cd22934e29c547d9d8942632"
+
+[[files]]
+file = "config/emi.css"
+hash = "ef29ffa364bb9d68611e126c57a99c3a0aa29f3c080dd935ffbcd66cf17691e6"
+
+[[files]]
+file = "config/fml.toml"
+hash = "065f28b12d982bea13b3adfe4248f9bcd8d84804f5d48339b498478763c3fa2c"
+
+[[files]]
+file = "config/jade/hide-blocks.json"
+hash = "309df4ae96864c19eae41b646d58497c85a73b1fc3c584e772ef4d5822794baa"
+
+[[files]]
+file = "config/jade/hide-entities.json"
+hash = "0461251f7206440551eb5f1b7aa575e6ef67334f6a52fb0089d95b7447e66dc8"
+
+[[files]]
+file = "config/jade/jade.json"
+hash = "f9f68a1557cdfab8394d2f4b54a2756d96451dcdddea4f5e04cb912b516ffa05"
+
+[[files]]
+file = "config/jade/plugins.json"
+hash = "d2bf64aafe63905f89232395d486f593611e03da8969189b12d7c931f5642965"
+
+[[files]]
+file = "config/jade/sort-order.json"
+hash = "c302f4304f9e843e2371a5ab849424ebdaed21f989ceb355f9e8f8421eec25d8"
+
+[[files]]
+file = "config/mega_showdown/config.json"
+hash = "7c6dc8acc7d6b6eed61691cbe268045d184e5636b3d5780e17ed00a2c5c3a8bb"
+
+[[files]]
+file = "config/neoforge-client.toml"
+hash = "a5f0eb38f8daf8574f7672a8393a0ab5c668d6ec6e7ae43fc8669e928786929d"
+
+[[files]]
+file = "config/neoforge-common.toml"
+hash = "e6f7578cf8c11ade0a47e36bf3863fc96f84cdf4bb679c0fceabb1e8a2f42399"
+
+[[files]]
+file = "config/neoforge-server.toml"
+hash = "0f1415d7fef6d7f6194275501d500b633dd3310aea40d64128edd1b096372f60"
+
+[[files]]
+file = "config/parcool-client.toml"
+hash = "e130572a8b41f09876095522e1ae9895aa06fc5345331636c82127018a4bc7b1"
+
+[[files]]
+file = "config/parcool-server.toml"
+hash = "9a9aaaae2bbf90972c26ceaa689a3a803e4b8cd8230e480a73625845e6be17a3"
+
+[[files]]
+file = "config/rctmod-client.toml"
+hash = "5b40bd71040c73040b70a402966cab75f01acd5b702e7315ea1ea99715bab55e"
+
+[[files]]
+file = "config/rctmod-server.toml"
+hash = "f312cbc0a9b93bf5f2da9955a70bfb9003d7114041cc22aaad1a905eac4e4fb9"
+
+[[files]]
+file = "config/roughlyenoughitems/collapsible.json5"
+hash = "a59667baa54738c1b294393a9b3652bcf7d392cdb8cba1c08a8006885b18e919"
+
+[[files]]
+file = "config/roughlyenoughitems/config.json5"
+hash = "ccfdf167e87abe903d68b5f0280ef82b4f5ac24171a7644295a40d2766dd80d6"
+
+[[files]]
+file = "config/roughlyenoughitems/favorites.json5"
+hash = "589c13e9ebbb9ae1b868d73be8c4e30323dcb03efacf59d75b9d614f1b069b47"
+
+[[files]]
+file = "config/roughlyenoughitems/hints.json"
+hash = "cf796d629315e69aadb7ab5ff78d63a5163415e6e169cee827d3e3ec07191456"
+
+[[files]]
+file = "config/roughlyenoughitems/pinyin.properties"
+hash = "8d8a3ce2fa7a665543bac4d685ea9daf04941e70f1bbc9d004d86fc2228040db"
+
+[[files]]
+file = "config/roughlyenoughitems/pinyin_double.properties"
+hash = "9710f3791e4f986648a05bba9dc8db24348912bedfc3e9a7b40adf03c38999d8"
+
+[[files]]
+file = "config/simpletms/main.json"
+hash = "24f8689336c04db23312f4019adfdb3587b7e3d4403b695adbc6653789db9250"
+
+[[files]]
+file = "config/simpletms/moves/default_tm_moves.json"
+hash = "5483714eef85f1939060b1f2ddf29b73096a92556b0e092e06d447540ae79156"
+
+[[files]]
+file = "config/simpletms/moves/default_tr_moves.json"
+hash = "5483714eef85f1939060b1f2ddf29b73096a92556b0e092e06d447540ae79156"
+
+[[files]]
+file = "config/simpletms/moves/excluded_moves_from_blank_learning.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/simpletms/moves/excluded_moves_from_pokemon_drops.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/simpletms/moves/excluded_moves_from_tmtr_learning.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/world-gen.json"
+hash = "4167478db8277f0c4c62f1c0d458b7dd95c4e933b7c7634fc40e196fd0432e07"
+
+[[files]]
+file = "icon.png"
+hash = "7117c55f1fcef1bb195dc8397ebfa590808cf9151b1568a204531d1d9d0d3993"
+
+[[files]]
 file = "mods/accessories.pw.toml"
 hash = "5b786ab7a57e37ec4b8f888157f79608e871653fc4b6a8cba0296690fe863704"
 metafile = true
@@ -88,6 +224,11 @@ metafile = true
 [[files]]
 file = "mods/tutorial-suppressor.pw.toml"
 hash = "86c677f1adb41d282bdad04c70fec57855a6c39b00ce70c1390477c01e788dc1"
+metafile = true
+
+[[files]]
+file = "resourcepacks/more-radical-textures.pw.toml"
+hash = "ea011445366adba606da8e36bd25891d6bed57d4826c8b7494356005711006f6"
 metafile = true
 
 [[files]]
