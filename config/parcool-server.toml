@@ -1,9 +1,9 @@
 [Limitations]
 	#Whether these limitations will be imposed to players
-	limitation_imposed = false
+	limitation_imposed = true
 
 	[Limitations.Action_Permissions]
-		permit_BreakfallReady = true
+		permit_BreakfallReady = false
 		permit_CatLeap = true
 		permit_ChargeJump = true
 		permit_ClimbPoles = true
@@ -12,7 +12,7 @@
 		permit_HideInBlock = true
 		permit_Crawl = true
 		permit_Dive = true
-		permit_Dodge = true
+		permit_Dodge = false
 		permit_FastRun = true
 		permit_FastSwim = true
 		permit_Flipping = true

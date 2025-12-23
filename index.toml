@@ -70,7 +70,7 @@ hash = "e130572a8b41f09876095522e1ae9895aa06fc5345331636c82127018a4bc7b1"
 
 [[files]]
 file = "config/parcool-server.toml"
-hash = "9a9aaaae2bbf90972c26ceaa689a3a803e4b8cd8230e480a73625845e6be17a3"
+hash = "df407645ea4725a9411b5c4a41954e1b9b895baddccb87fc401054adc493fd73"
 
 [[files]]
 file = "config/rctmod-client.toml"
