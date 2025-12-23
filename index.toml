@@ -25,6 +25,10 @@ file = "config/fml.toml"
 hash = "065f28b12d982bea13b3adfe4248f9bcd8d84804f5d48339b498478763c3fa2c"
 
 [[files]]
+file = "config/global_packs.toml"
+hash = "7c622462e15b233663d344eb9e53ad33ad066417e8345751b5801032a1d02e19"
+
+[[files]]
 file = "config/jade/hide-blocks.json"
 hash = "309df4ae96864c19eae41b646d58497c85a73b1fc3c584e772ef4d5822794baa"
 
@@ -564,6 +568,11 @@ metafile = true
 [[files]]
 file = "mods/emi.pw.toml"
 hash = "d3c9b48d7caa2ed964e5d1a4dab1da5655c63f0a7e4a59231c4369be7ffc30e1"
+metafile = true
+
+[[files]]
+file = "mods/globalpacks.pw.toml"
+hash = "196e0f508a13926ad342628f60f17cae5581b48582e3a9de3350c9e78888e1d3"
 metafile = true
 
 [[files]]
