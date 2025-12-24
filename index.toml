@@ -25,6 +25,10 @@ file = "config/cobblemonpokemonbadges-common.toml"
 hash = "d640c77b9cbb56c6ca4bd3bf4194ad5fa6dd3572cd22934e29c547d9d8942632"
 
 [[files]]
+file = "config/defaultoptions/keybindings.txt"
+hash = "75caa0165b8cc4385c36c2f198eca8e8415070486f941229875ec624411fc2cc"
+
+[[files]]
 file = "config/emi.css"
 hash = "ef29ffa364bb9d68611e126c57a99c3a0aa29f3c080dd935ffbcd66cf17691e6"
 
