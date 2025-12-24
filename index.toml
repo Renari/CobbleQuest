@@ -86,7 +86,7 @@ hash = "5b40bd71040c73040b70a402966cab75f01acd5b702e7315ea1ea99715bab55e"
 
 [[files]]
 file = "config/rctmod-server.toml"
-hash = "f312cbc0a9b93bf5f2da9955a70bfb9003d7114041cc22aaad1a905eac4e4fb9"
+hash = "d35c27150ca84e9303d318deed2357b288a5fd0533fadfe1d826f76d914ef1ed"
 
 [[files]]
 file = "config/roughlyenoughitems/collapsible.json5"
