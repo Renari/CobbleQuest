@@ -525,6 +525,11 @@ file = "config/world-gen.json"
 hash = "4167478db8277f0c4c62f1c0d458b7dd95c4e933b7c7634fc40e196fd0432e07"
 
 [[files]]
+file = "global_packs/required_data/rct-badges-cobblemonpokemonbadges.pw.toml"
+hash = "860c49bdd3c673c8e0756a30bbb087470db55295b757772c6bac5bec713465f2"
+metafile = true
+
+[[files]]
 file = "icon.png"
 hash = "7117c55f1fcef1bb195dc8397ebfa590808cf9151b1568a204531d1d9d0d3993"
 
