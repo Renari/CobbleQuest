@@ -699,6 +699,16 @@ hash = "09ba6db54e6f13fafa1e12a9adcd83db9137617d631288579f520ab11b4bfe9a"
 metafile = true
 
 [[files]]
+file = "mods/notenoughrecipebook.pw.toml"
+hash = "6df80014ec12832c5627e60f7c916e0cb8a9d8dbb3f7c4ff863de3a6e39957aa"
+metafile = true
+
+[[files]]
+file = "mods/octo-lib.pw.toml"
+hash = "a52c2b505827a549dfabebd6586591910fcf6e1a62dbb27604aacc96d412d5e4"
+metafile = true
+
+[[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "46831c04077a06df823bcd0f254833a90a9a9ccc78f5069f4b4c27fa301ac0cf"
 metafile = true
