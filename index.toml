@@ -17,6 +17,10 @@ file = "config/accessories.json5"
 hash = "36bc911fdd66e33118d4f5b8e86d9cf75c0075ec05eb69ef01d6f9a53d695822"
 
 [[files]]
+file = "config/cobblemon-battle-extras.json"
+hash = "45fa3a9c5fbe796fa3edfdafe1fe463721b1711694afba1943257dbc3dbd00f8"
+
+[[files]]
 file = "config/cobblemon/main.json"
 hash = "13b40dbd6b36d02b5e0a0897c69335741224456c5c4dae2339418da413bb2785"
 
@@ -610,6 +614,11 @@ metafile = true
 [[files]]
 file = "mods/cobblefurnies.pw.toml"
 hash = "bd1f2508c571574e76ae32614a353eb900063c0e2bf54bb29ac98e7d6ab36eb6"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-battle-extras.pw.toml"
+hash = "72f4a777cb6252bb2e87695ab9b2abaac2df12d80ee3ea04cec3491db6bc71ac"
 metafile = true
 
 [[files]]
