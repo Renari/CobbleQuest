@@ -1,0 +1,13 @@
+name = "Cobblemon Party Extras"
+filename = "cobblemon_party_extras-neoforge-1.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b507349f6c5dde1945120ba54b9d645907e49cf4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7374688
+project-id = 1410893

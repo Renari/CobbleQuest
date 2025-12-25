@@ -618,6 +618,11 @@ hash = "9bef0951501cb99b09b958f28efb5eacfbc6376ed8a6b108ea3b56cd7ace0bd5"
 metafile = true
 
 [[files]]
+file = "mods/cobblemon-party-extras.pw.toml"
+hash = "3419b4d4f9a7023eae4bc42703a17766e44b51ae9b07513a0975a7012bc8611d"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon-pokemon-badges.pw.toml"
 hash = "1f2cd45c3decc1215fca84fb3df356d017f17dbd130f18704fea55772a140adf"
 metafile = true
