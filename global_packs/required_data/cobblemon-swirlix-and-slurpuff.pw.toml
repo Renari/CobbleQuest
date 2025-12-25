@@ -1,0 +1,13 @@
+name = "Swirlix and Slurpuff for Cobblemon!"
+filename = "Swirlix_and_Slurpuff.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/tOueorRp/versions/z6slCYqe/Swirlix_and_Slurpuff.zip"
+hash-format = "sha512"
+hash = "682b693a20245cd050e4d7c49be188dd154fd8b2d0f9bff5ca5eafdc1532d215bdfbbeb9958567f712f7fa509162adfc3c26eecec1a664501c6ca0312d73e852"
+
+[update]
+[update.modrinth]
+mod-id = "tOueorRp"
+version = "z6slCYqe"

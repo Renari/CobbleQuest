@@ -19,6 +19,7 @@ log_pack_ids = false
 		"resourcepacks/RCT Trainer Animation_0.2.1beta.zip",
 		"resourcepacks/RCT Trainers+ [1.6] v2.1.zip",
 		"resourcepacks/MoreRadicalTextures1.8.zip",
+		"global_packs/required_data/Swirlix_and_Slurpuff.zip",
 	]
 	# Check game log if log_pack_ids is set to true, you need to add the full IDs listed in there.
 	# Search for "# Listing Resource Packs #" inside the log

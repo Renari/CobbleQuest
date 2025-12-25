@@ -38,7 +38,7 @@ hash = "065f28b12d982bea13b3adfe4248f9bcd8d84804f5d48339b498478763c3fa2c"
 
 [[files]]
 file = "config/global_packs.toml"
-hash = "7e2d8c2c7ff16d7158d24d8bf4c19cabd564eb79e2190f0d3dd3213113cd8002"
+hash = "cb68344fc3cee69c1d07d97042e53471fc59c0c62a2703b5172f0e28c483a2dc"
 
 [[files]]
 file = "config/jade/hide-blocks.json"
@@ -527,6 +527,11 @@ hash = "ff8284891ea78caed36f373113dddd800d0dc70d34030752c373214cbbbfea87"
 [[files]]
 file = "config/world-gen.json"
 hash = "4167478db8277f0c4c62f1c0d458b7dd95c4e933b7c7634fc40e196fd0432e07"
+
+[[files]]
+file = "global_packs/required_data/cobblemon-swirlix-and-slurpuff.pw.toml"
+hash = "f74a75ef3dac3f04985abb150296c53ae8217c2ba8113fc098bafe2c59bc21d3"
+metafile = true
 
 [[files]]
 file = "global_packs/required_data/rct-badges-cobblemonpokemonbadges.pw.toml"
