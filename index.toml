@@ -733,6 +733,11 @@ hash = "0dc8617f17a7d980064f78a2c1735af15f912989fb03bf8c46470c3dcb74cb86"
 metafile = true
 
 [[files]]
+file = "mods/particle-rain.pw.toml"
+hash = "95886f73121a490ab360dac8e99f260fb0346048e86475c658ed44ddd399f09e"
+metafile = true
+
+[[files]]
 file = "mods/radical-gyms-cobblemon.pw.toml"
 hash = "1f2b2182565e431b5e0c0fa7c6991c2debd6ba89e6905ca6518acfb95df821a8"
 metafile = true
@@ -770,6 +775,11 @@ metafile = true
 [[files]]
 file = "mods/tutorial-suppressor.pw.toml"
 hash = "86c677f1adb41d282bdad04c70fec57855a6c39b00ce70c1390477c01e788dc1"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "9a89a97f142873b9ab62d2c7c807ac22e6f16c828282052b416a6f3f7f785a48"
 metafile = true
 
 [[files]]
